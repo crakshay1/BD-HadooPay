@@ -22,29 +22,30 @@ You can find the description of the work, the MapReduce jobs and the results in 
 ## Structure
 
 ```
-BIGDATA-Report2-Akshay.pdf     # Project report
-db/                            # Data files
-├── purchases.txt              # Main purchases database (NOT accessible)
-├── city.txt                   # City data
-├── date.txt                   # Date data
-├── item.txt                   # Item / product category data
-├── payment.txt                # Payment method data
-├── time.txt                   # Time of purchase data
-├── pd.txt                     # Additional data file
-└── projet2.txt                # Additional data file for the project
-Scripts/                       # Scripts to run and analyze the MapReduce jobs
-├── all_coms.sh                # Shell script gathering the commands to run the jobs
-├── proj2.r                    # R script for the analysis of the results
-├── Initial_MapReduce/         # First MapReduce job
-│   ├── mapper.py
-│   └── reducer.py
-├── Purchase 2.0/              # Second version of the job
-│   ├── mapper1.py
-│   └── reducer.py
-├── Purchase 2.2/              # Refined version of the second job
-│   ├── mapper.py
-│   └── reducer1.py
-└── Purchase 3.0/              # Third version of the job
-    ├── mapper2.py
-    └── reducer2.py
+.
+├── BIGDATA-Report2-Akshay.pdf     # Project report
+└──  db/                            # Data files
+    ├── purchases.txt              # Main purchases database (NOT accessible)
+    ├── city.txt                   # City data
+    ├── date.txt                   # Date data
+    ├── item.txt                   # Item / product category data
+    ├── payment.txt                # Payment method data
+    ├── time.txt                   # Time of purchase data
+    ├── pd.txt                     # Additional data file
+    └── projet2.txt                # Additional data file for the project
+└──  Scripts/                       # Scripts to run and analyze the MapReduce jobs
+    ├── all_coms.sh                # Shell script gathering the commands to run the jobs
+    ├── proj2.r                    # R script for the analysis of the results
+    ├── Initial_MapReduce/         # First MapReduce job
+    │   ├── mapper.py
+    │   └── reducer.py
+    ├── Purchase 2.0/              # Second version of the job
+    │   ├── mapper1.py
+    │   └── reducer.py
+    ├── Purchase 2.2/              # Refined version of the second job
+    │   ├── mapper.py
+    │   └── reducer1.py
+    └── Purchase 3.0/              # Third version of the job
+        ├── mapper2.py
+        └── reducer2.py
 ```
