@@ -1,0 +1,103 @@
+city:Albuquerque	40345
+city:Anaheim	40086
+city:Anchorage	39806
+city:Arlington	40348
+city:Atlanta	40168
+city:Aurora	39808
+city:Austin	40332
+city:Bakersfield	40326
+city:Baltimore	40196
+city:Baton Rouge	40387
+city:Birmingham	40253
+city:Boise	40203
+city:Boston	40338
+city:Buffalo	40053
+city:Chandler	39826
+city:Charlotte	40509
+city:Chesapeake	40288
+city:Chicago	40220
+city:Chula Vista	40080
+city:Cincinnati	40452
+city:Cleveland	40313
+city:Colorado Springs	40389
+city:Columbus	40225
+city:Corpus Christi	39925
+city:Dallas	40368
+city:Denver	40199
+city:Detroit	39999
+city:Durham	40501
+city:El Paso	39882
+city:Fort Wayne	40439
+city:Fort Worth	40336
+city:Fremont	40219
+city:Fresno	40043
+city:Garland	40185
+city:Gilbert	40277
+city:Glendale	40264
+city:Greensboro	40232
+city:Henderson	40194
+city:Hialeah	40312
+city:Honolulu	39944
+city:Houston	40114
+city:Indianapolis	40321
+city:Irvine	40325
+city:Irving	40352
+city:Jacksonville	40400
+city:Jersey City	39612
+city:Kansas City	39713
+city:Laredo	40342
+city:Las Vegas	40165
+city:Lexington	40343
+city:Lincoln	40345
+city:Long Beach	39942
+city:Los Angeles	40254
+city:Louisville	40099
+city:Lubbock	39837
+city:Madison	40177
+city:Memphis	40222
+city:Mesa	40207
+city:Miami	39935
+city:Milwaukee	40316
+city:Minneapolis	39991
+city:Nashville	39854
+city:New Orleans	39914
+city:New York	40364
+city:Newark	40577
+city:Norfolk	40231
+city:North Las Vegas	40013
+city:Oakland	39728
+city:Oklahoma City	40446
+city:Omaha	40209
+city:Orlando	40195
+city:Philadelphia	40748
+city:Phoenix	40333
+city:Pittsburgh	40358
+city:Plano	40170
+city:Portland	40065
+city:Raleigh	40261
+city:Reno	40254
+city:Richmond	39983
+city:Riverside	39963
+city:Rochester	40455
+city:Sacramento	40561
+city:Saint Paul	40160
+city:San Antonio	40197
+city:San Bernardino	40041
+city:San Diego	39901
+city:San Francisco	39983
+city:San Jose	39898
+city:Santa Ana	40306
+city:Scottsdale	40173
+city:Seattle	39866
+city:Spokane	40222
+city:St. Louis	39982
+city:St. Petersburg	40093
+city:Stockton	39996
+city:Tampa	40136
+city:Toledo	40139
+city:Tucson	39870
+city:Tulsa	40247
+city:Virginia Beach	40169
+city:Washington	40503
+city:Wichita	40422
+city:Winston–Salem	40208

@@ -1,0 +1,5 @@
+payment:Amex	826535
+payment:Cash	828770
+payment:Discover	827426
+payment:MasterCard	828524
+payment:Visa	827221

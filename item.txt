@@ -1,0 +1,18 @@
+item:Baby	230293
+item:Books	229787
+item:CDs	230039
+item:Cameras	229320
+item:Children's Clothing	230469
+item:Computers	229059
+item:Consumer Electronics	229761
+item:Crafts	229749
+item:DVDs	230274
+item:Garden	230073
+item:Health and Beauty	229667
+item:Men's Clothing	230430
+item:Music	230150
+item:Pet Supplies	229222
+item:Sporting Goods	229932
+item:Toys	229964
+item:Video Games	230237
+item:Women's Clothing	230050
